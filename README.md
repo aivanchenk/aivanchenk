@@ -29,7 +29,7 @@ Brings both national and international experience, having collaborated with comp
 
 <h2>Let's keep in touch</h2>
 
-<p align="center">
+<p>
   <a href="mailto:a.ivanchenko.eu@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
