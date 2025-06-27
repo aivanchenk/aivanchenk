@@ -100,7 +100,7 @@ Brings both national and international experience, having collaborated with comp
   <tr>
   <td>
     <strong>Urban System Compliance – automated detection of illegal infrastructure</strong><br/>
-    <em>(unreleased university project • private code)</em>
+    <em>(university team project • private code)</em>
   </td>
   <td>
     • Led front-end development in React, delivering a map-centric analytics UI.<br/>
@@ -112,7 +112,7 @@ Brings both national and international experience, having collaborated with comp
   <tr>
   <td>
     <strong>Astro Quest – pixel-style survival game</strong><br/>
-    <em>(side project • private code)</em>
+    <em>(university team project • private code)</em>
   </td>
   <td>
     • Built core gameplay loop in Java, including crafting and oxygen deficiency.<br/>
