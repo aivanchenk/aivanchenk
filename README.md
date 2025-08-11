@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Inter&size=40&duration=2500&pause=400&color=FFF&center=true&vCenter=true&width=500&height=70&lines=Hello,+I'm+Anastasiia!;I+build+with+React+%26+TS+" alt="typing svg" />
 </h1>
 
-Front-End Developer with over 1.5 years of experience, currently pursuing a Bachelor’s degree in Informatics at Kaunas University of Technology. Proficient in building detail-oriented, user-friendly web applications with React and TypeScript. 
+Front-End Developer with 2 years of experience, currently pursuing a Bachelor’s degree in Informatics at Kaunas University of Technology. Proficient in building detail-oriented, user-friendly web applications with React and TypeScript. 
 Brings both national and international experience, having collaborated with companies of different sizes. Anastasiia enjoys broadening her expertise beyond front-end development, she frequently volunteers at computer-science conferences and participates in extracurricular university projects.
 
 <h2>Technologies & Tools</h2>
